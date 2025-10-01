@@ -1,1 +1,1 @@
-# Joy-sWanderings.github.io
+# JoysWanderings.github.io
