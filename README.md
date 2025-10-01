@@ -14,4 +14,4 @@ A personal website showcasing Joy's life experiences, built using HTML and CSS. 
 - GitHub Pages
 
 ## Live Site
-[Visit Joy's Wanderings](https://your-username.github.io/joys-adventures/)
+[Visit Joy's Wanderings]((https://thequietone409.github.io/JoysWanderings.github.io/))
